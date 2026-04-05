@@ -1,0 +1,13 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Sensitive
+*.pem
+*.key
+terra-key-ec2
+
+# OS
+.DS_Store
